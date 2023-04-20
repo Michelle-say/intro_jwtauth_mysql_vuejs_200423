@@ -1,3 +1,1 @@
-# intro_oauth2_sql_310323
-# intro_jwtauth_mysql_vuejs_200423
 # intro_jwtauth_mysql_vuejs_200423
